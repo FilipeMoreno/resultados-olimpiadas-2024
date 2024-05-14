@@ -15,7 +15,7 @@
       "modalidade": "Futsal",
       "categoria": "Feminino",
       "equipeA": {
-        "nome": "3ª SÉRIE A",
+        "nome": "1ª SÉRIE A",
         "representante": "Aluno",
         "pais": {
           "nome": "Brasil",
@@ -23,7 +23,7 @@
         }
       },
       "equipeB": {
-        "nome": "3ª SÉRIE A",
+        "nome": "1ª SÉRIE A",
         "representante": "Aluno",
         "pais": {
           "nome": "Brasil",
@@ -44,7 +44,7 @@
       "modalidade": "Futsal",
       "categoria": "Feminino",
       "equipeA": {
-        "nome": "1ª SÉRIE A",
+        "nome": "2ª SÉRIE A",
         "representante": "Aluno",
         "pais": {
           "nome": "Argentina",
@@ -52,7 +52,7 @@
         }
       },
       "equipeB": {
-        "nome": "1ª SÉRIE B",
+        "nome": "2ª SÉRIE B",
         "representante": "Aluno",
         "pais": {
           "nome": "Brasil",
@@ -73,7 +73,7 @@
       "modalidade": "Futsal",
       "categoria": "Masculino",
       "equipeA": {
-        "nome": "6º ANO A",
+        "nome": "3º ANO A",
         "representante": "Aluno",
         "pais": {
           "nome": "Espanha",
@@ -81,7 +81,7 @@
         }
       },
       "equipeB": {
-        "nome": "2ª SÉRIE B",
+        "nome": "3ª SÉRIE B",
         "representante": "Aluno",
         "pais": {
           "nome": "Portugal",
@@ -102,7 +102,7 @@
       "modalidade": "Volêi",
       "categoria": "Masculino",
       "equipeA": {
-        "nome": "1ª SÉRIE A",
+        "nome": "4ª SÉRIE A",
         "representante": "Aluno",
         "pais": {
           "nome": "Argentina",
@@ -110,7 +110,7 @@
         }
       },
       "equipeB": {
-        "nome": "1ª SÉRIE B",
+        "nome": "4ª SÉRIE B",
         "representante": "Aluno",
         "pais": {
           "nome": "Brasil",
