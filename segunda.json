@@ -1,0 +1,35 @@
+{
+  "data": "01/01/2024",
+  "hora": "07:30",
+  "local": "Ginásio Poliesportivo",
+  "periodo": "Manhã",
+  "jogos": [
+    {
+      "id": 1,
+      "numeroJogo": 1,
+      "modalidade": "Futsal",
+      "categoria": "Feminino",
+      "data": "01/01/2024",
+      "equipeA": {
+        "nome": "3ª SÉRIE A",
+        "representante": "Aluno",
+        "pais": {
+          "nome": "Brasil",
+          "bandeira": "/bandeiras/Flag_of_Brazil.webp"
+        }
+      },
+      "equipeB": {
+        "nome": "3ª SÉRIE A",
+        "representante": "Aluno",
+        "pais": {
+          "nome": "Brasil",
+          "bandeira": "/bandeiras/Flag_of_Brazil.webp"
+        }
+      },
+      "placarA": 0,
+      "placarB": 0,
+      "status": "Agendado",
+      "finalizado": false
+    }
+  ]
+}
