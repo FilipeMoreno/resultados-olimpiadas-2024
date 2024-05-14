@@ -19,7 +19,7 @@
         "representante": "Aluno",
         "pais": {
           "nome": "Brasil",
-          "bandeira": "/bandeiras/Flag_of_Brazil.webp"
+          "bandeira": "/bandeiras/Flag_of_Brazil.png"
         }
       },
       "equipeB": {
@@ -27,7 +27,7 @@
         "representante": "Aluno",
         "pais": {
           "nome": "Brasil",
-          "bandeira": "/bandeiras/Flag_of_Brazil.webp"
+          "bandeira": "/bandeiras/Flag_of_Brazil.png"
         }
       },
       "placarA": 0,
